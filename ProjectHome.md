@@ -1,0 +1,1 @@
+A new approach for graphically querying BP specification is proposed. The specification of a business process system is modelled as a set of directed attributed graphs. The business process searching problem can be characterized as following: Given a graph database D = {G1, G2, . . . , Gn} and a query graph Q, find all the graphs in which Q appears or approximately appears.
